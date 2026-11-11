@@ -1,0 +1,2 @@
+# cashieer-policy
+privacy
